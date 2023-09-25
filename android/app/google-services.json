@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "185455870843",
+    "project_id": "inext-accad",
+    "storage_bucket": "inext-accad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185455870843:android:c6fb41346b17f3c8f4f3de",
+        "android_client_info": {
+          "package_name": "com.example.inext_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK6iGrgfnh33J9OBobAU64sHUwJ-9GFP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
